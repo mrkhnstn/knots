@@ -1,0 +1,11 @@
+{
+  "name": "knots",
+  "subdomain": "knots",
+  "scripts": {
+    "start": "node helloworld.js"
+  },
+  "version": "0.0.0",
+  "engines": {
+    "node": "0.6.x"
+  }
+}
